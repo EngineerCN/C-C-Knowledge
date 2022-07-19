@@ -1,7 +1,5 @@
 # 强引用导致双重delete情况（double delete）
 
----
-
 ## 错误用法
 
 文件：`shared_ptr_error.cpp`
